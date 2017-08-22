@@ -1,0 +1,14 @@
+li.thumbnail img {
+  width: 200px;
+  height: 200px;
+}
+.gallery > img {
+  width: 400px;
+  height: 400px;
+}
+.ng-invalid.ng-dirty {
+  border-color: #FA787E;
+}
+.ng-valid.ng-dirty {
+  border-color: #78FA89;
+}
